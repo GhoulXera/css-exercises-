@@ -1,0 +1,24 @@
+*{
+    font-family: Verdana;
+}
+
+.one, .three, .five{
+    background-color: lightcoral;
+}
+
+#two{
+    color: #00f;
+    font-size: 35px;
+    font-weight: 500;
+    margin: 5px;
+}
+
+.three{
+    font-size: 28px;
+}
+
+#four{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
